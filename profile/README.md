@@ -15,10 +15,14 @@ We're a flexible group of developers bridging two worlds: **CNC machining & auto
 
 **Tech Stack:** .NET • C# • TypeScript • React • C++ • Python • and more
 
-## 🌐 Learn More
+## 💬 Get In Touch
 
-**[🚀 Visit Our Website](https://deadlockdevelopment.github.io/about/)**
+**Ready to collaborate?** 
+- 💬 [Start a Discussion](https://github.com/orgs/DeadLockDevelopment/discussions) - Ask questions, share ideas, or discuss potential projects
+- 🌐 [Visit Our Website](https://deadlockdevelopment.github.io/about/) - Learn more about what we do
+
+
 
 ---
 
-*From factory floors to gaming worlds – we build what matters* ⚡
+*From factory floors to gaming worlds – we build what matters* 
