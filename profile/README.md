@@ -1,4 +1,7 @@
-# 🔒 DeadLock Development
+<div align="center">
+  <img src="../resources/images/logo.png" alt="DeadLock Development" width="400"/>
+</div>
+
 
 > *Where industrial expertise meets creative innovation*
 
